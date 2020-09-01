@@ -7,3 +7,6 @@ Alteração feita no master
 Texto inserido para o GITHUB
 
 Outro texto
+
+klsclksm
+cslkasmclk
