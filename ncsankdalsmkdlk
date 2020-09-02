@@ -1,0 +1,59 @@
+[33mcommit f0e2b98eeb9212b2753c5883aed07c10983f00d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Tue Sep 1 03:12:45 2020 -0300
+
+    Nova funcionalidade X
+
+[33mcommit 7d6945d7599056a70264cc0ccfefd4a6ee2ad6a7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Tue Sep 1 02:55:06 2020 -0300
+
+    usando o GitIgnore
+
+[33mcommit 43759c0fff182fd9459ad695c2ad73aaf64c18cb[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Tue Sep 1 02:43:44 2020 -0300
+
+    Criando arquivo IGNORE
+
+[33mcommit 9a7dc61fccb76e3140ffdd09ab9d76ca736336e3[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Tue Sep 1 02:31:50 2020 -0300
+
+    arquivo javascript
+
+[33mcommit 334a33ade5d7359e414dd94dccb3bace87955d87[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Tue Sep 1 02:30:49 2020 -0300
+
+    Criando arquivo de scripts
+
+[33mcommit e7932d33a06e90ab557bb73b8b3c48fb984cda34[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Tue Sep 1 02:23:35 2020 -0300
+
+    Texto para o GitHub
+
+[33mcommit 12e4742b87bdb3342803f4d9517b991b5b9721c3[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Mon Aug 31 01:42:51 2020 -0300
+
+    Alteracao feita no MASTER
+
+[33mcommit 6e55519871981f6afa84390a95f9e6ccf3a09c57[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Mon Aug 31 01:26:32 2020 -0300
+
+    Corrigindo o Title do HTML
+
+[33mcommit 4b399f10591724d2aa7e9b9e2e5823c3bf472538[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Mon Aug 31 00:52:34 2020 -0300
+
+    Criandos os arquivos principais, index e style e atualizando o arquivo README
+
+[33mcommit b7683acdb4b0840453b4d6e7ca3d2d04fc3a53be[m
+Author: Fabiano <fabiano.ssantos79@gmail.com>
+Date:   Mon Aug 31 00:45:18 2020 -0300
+
+    Primeiro Commit
